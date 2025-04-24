@@ -37,7 +37,7 @@ To get started with **SMS Bomber**, follow these steps:
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/sms-bomber.git
+git clone git@github.com:nimamoosa/sms-bomber-v2.git
 ```
 
 ### 2. **Install dependencies**
@@ -61,8 +61,9 @@ Run the tool with:
 
 ```bash
 node index.js
-It will prompt you to enter a phone number, and the SMS Bomber will begin sending SMS messages to the number.
 ```
+
+It will prompt you to enter a phone number, and the SMS Bomber will begin sending SMS messages to the number.
 
 ---
 
